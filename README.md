@@ -19,7 +19,7 @@ This is an application for adding different pitches
 ## Setup/Installation Requirements
 * Clone or download the project from my repo https://github.com/tyron20/ip3core.git
 * Open with pycharm or your prefered IDE
-* Or you can You can view it using this link https://tyron20.github.io/ip3core/
+* Or you can You can view it using this link
 
 ## Technologies Used
 * Flask

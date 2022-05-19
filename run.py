@@ -13,7 +13,7 @@ ENV = 'dev'
 
 if ENV == 'prod':
     app.debug = True
-    app.config['SQLALCHEMY_DATABASE_URI'] = 'postgresql+psycopg2://joshua:letmein@localhost/joshua'
+    app.config['SQLALCHEMY_DATABASE_URI'] = 'postgresql+psycopg2://tyron:letmein@localhost/tyron'
     app.config['SECRET_KEY'] = "1234567"
     MAIL_SERVER = 'smtp.googlemail.com'
     MAIL_PORT = 587

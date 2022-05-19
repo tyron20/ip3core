@@ -15,9 +15,9 @@
 This is an application for adding different pitches
 
 ## Contributors
-* Joshua Barawa
+* Tyron Njuguna
 ## Setup/Installation Requirements
-* Clone or download the project from my repo https://github.com/Joshua-Barawa/pitches-IP
+* Clone or download the project from my repo https://github.com/tyron20/ip3core.git
 * Open with pycharm or your prefered IDE
 * Or you can You can view it using this link https://news-today-api.herokuapp.com/
 
@@ -28,7 +28,7 @@ This is an application for adding different pitches
 ## Support and contact details
 * If you get any issue contact mwamlandabarawa@gmail.com
 ### License
-Joshua.M.Barawa License
+
 
 
 ​

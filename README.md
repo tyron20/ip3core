@@ -26,7 +26,8 @@ This is an application for adding different pitches
 * Bootstrap
 * PostgreSQL
 ## Support and contact details
-* If you get any issue contact mwamlandabarawa@gmail.com
+* If you get any issue contact @tyronnjuguna
+* 
 
 
 
